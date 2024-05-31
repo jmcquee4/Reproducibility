@@ -1,2 +1,2 @@
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
-
+For research data management support please contact CMVM.Data@ed.ac.uk or data-support@ed.ac.uk
